@@ -1,2 +1,2 @@
-# shopping
-Alamin Online > Shopping
+# Alamin Online > Shopping
+https://alaminonline.com/shopping
